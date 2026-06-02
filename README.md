@@ -9,3 +9,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="60" height="60" alt="Bash"/>
 </p>
 <br><hr>
+<p align="center">
+  <a href="https://t.me/N0rmalizer">
+    <img src="https://img.shields.io/badge/Telegram-@N0rmalizer-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
+</p>
