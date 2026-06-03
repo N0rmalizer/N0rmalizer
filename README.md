@@ -14,3 +14,17 @@
     <img src="https://img.shields.io/badge/Telegram-@N0rmalizer-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
 </p>
+<br><hr>
+```zig
+const std = @import("std");
+const Print = std.debug.print;
+
+pub fn main() void {
+  const user = User{
+
+    name = "Houssam Miliani\n",
+    Geek = "Breaking Web and Browsers",
+  }
+  Print("{}", .{user.name, user.Geek});
+}
+```
