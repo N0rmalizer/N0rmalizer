@@ -15,6 +15,7 @@
   </a>
 </p>
 <br><hr>
+
 ```zig
 const std = @import("std");
 const Print = std.debug.print;
@@ -24,7 +25,7 @@ pub fn main() void {
 
     name = "Houssam Miliani\n",
     Geek = "Breaking Web and Browsers",
-  }
+  };
   Print("{}", .{user.name, user.Geek});
 }
 ```
