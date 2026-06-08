@@ -10,16 +10,7 @@
 </p>
 <br><hr>
 
-```zig
-const std = @import("std");
-const Print = std.debug.print;
-
-pub fn main() void {
-  const user = User{
-
-    name = "Houssam Miliani\n",
-    Geek = "Breaking Web and Browsers",
-  };
-  Print("{}", .{user.name, user.Geek});
-}
+```sh
+- Geek : Web Security Research , Browser Security , Programming  
 ```
+
