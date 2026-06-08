@@ -11,6 +11,9 @@
 <br><hr>
 
 ```sh
-- Geek : Web Security Research , Browser Security , Programming  
+- Geek :
+       - Web Security Research
+       - Browser Security ( blink )
+       - Programming  
 ```
 
