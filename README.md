@@ -9,11 +9,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="60" height="60" alt="Bash"/>
 </p>
 <br><hr>
-
-```sh
-- Geek :
-       - Web Security Research
-       - Browser Security ( blink )
-       - Programming  
-```
-
